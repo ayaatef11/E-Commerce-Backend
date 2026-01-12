@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1LWtPB2XXVA=",
+  "dgSpecHash": "vjGSqUBHfjs=",
   "success": true,
-  "projectFilePath": "F:\\2-back-end\\E-Commerce\\E-Commerce\\E-Commerce.csproj",
+  "projectFilePath": "F:\\2-back-end\\3-E-Commerce\\E-Commerce\\E-Commerce.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Aya Atef\\.nuget\\packages\\aspnetcore.healthchecks.hangfire\\9.0.0\\aspnetcore.healthchecks.hangfire.9.0.0.nupkg.sha512",
     "C:\\Users\\Aya Atef\\.nuget\\packages\\aspnetcore.healthchecks.redis\\9.0.0\\aspnetcore.healthchecks.redis.9.0.0.nupkg.sha512",

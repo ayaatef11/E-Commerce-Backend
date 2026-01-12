@@ -9,3 +9,4 @@ Properties/
 *.suo
 logs/
 /E-Commerce/appsettings.json
+/E-Commerce/appsettings.Development.json

@@ -1,0 +1,11 @@
+.vs
+*/bin/
+*/obj/
+*/appsettings.*
+*.csproj
+Migrations/
+Properties/
+*.user
+*.suo
+logs/
+/E-Commerce/appsettings.json

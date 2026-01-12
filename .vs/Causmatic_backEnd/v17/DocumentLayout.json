@@ -1,0 +1,378 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\2-back-end\\E-Commerce\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\2-back-end\\E-Commerce\\Causmatic_backEnd\\Controllers\\RolesController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Causmatic_backEnd\\Controllers\\RolesController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\2-back-end\\E-Commerce\\Causmatic_backEnd\\Controllers\\AuthController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Causmatic_backEnd\\Controllers\\AuthController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\2-back-end\\E-Commerce\\Causmatic_backEnd.Service\\Common\\BackGroundJobs\\DeletedItemsCleanupService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Causmatic_backEnd.Service\\Common\\BackGroundJobs\\DeletedItemsCleanupService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\2-back-end\\E-Commerce\\Causmatic_backEnd.Service\\Services\\Core\\ProductService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Causmatic_backEnd.Service\\Services\\Core\\ProductService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\2-back-end\\E-Commerce\\Causmatic_backEnd.Service\\GlobalUsings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Causmatic_backEnd.Service\\GlobalUsings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\2-back-end\\E-Commerce\\Causmatic_backEnd.Service\\Services\\Authentication\\EmailSenderService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Causmatic_backEnd.Service\\Services\\Authentication\\EmailSenderService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\2-back-end\\E-Commerce\\Causmatic_backEnd.Service\\Services\\Authentication\\SMSService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Causmatic_backEnd.Service\\Services\\Authentication\\SMSService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\2-back-end\\E-Commerce\\Causmatic_backEnd.Service\\Services\\Authentication\\RoleService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Causmatic_backEnd.Service\\Services\\Authentication\\RoleService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\2-back-end\\E-Commerce\\Causmatic_backEnd.Service\\Services\\Authentication\\UserService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Causmatic_backEnd.Service\\Services\\Authentication\\UserService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\2-back-end\\E-Commerce\\Causmatic_backEnd\\Controllers\\ProductController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Causmatic_backEnd\\Controllers\\ProductController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\2-back-end\\E-Commerce\\Causmatic_backEnd\\Controllers\\ProfileController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Causmatic_backEnd\\Controllers\\ProfileController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\2-back-end\\E-Commerce\\Causmatic_backEnd\\Controllers\\PhotoController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Causmatic_backEnd\\Controllers\\PhotoController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\2-back-end\\E-Commerce\\Causmatic_backEnd\\Controllers\\OrderController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Causmatic_backEnd\\Controllers\\OrderController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\2-back-end\\E-Commerce\\Causmatic_backEnd.Service\\Services\\Authentication\\JwtAuthService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Causmatic_backEnd.Service\\Services\\Authentication\\JwtAuthService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\2-back-end\\E-Commerce\\Causmatic_backEnd\\Extensions\\CommonExtensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Causmatic_backEnd\\Extensions\\CommonExtensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\2-back-end\\E-Commerce\\Causmatic_backEnd\\Extensions\\EmailExtension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Causmatic_backEnd\\Extensions\\EmailExtension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\2-back-end\\E-Commerce\\Causmatic_backEnd.Repository\\Repositories\\UnitOfWork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Causmatic_backEnd.Repository\\Repositories\\UnitOfWork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\2-back-end\\E-Commerce\\Causmatic_backEnd.Core\\Shared\\Results\\Result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Causmatic_backEnd.Core\\Shared\\Results\\Result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\2-back-end\\E-Commerce\\Causmatic_backEnd.Core\\Shared\\Results\\ErrorResponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Causmatic_backEnd.Core\\Shared\\Results\\ErrorResponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\2-back-end\\E-Commerce\\Causmatic_backEnd.Core\\Shared\\Results\\Error.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Causmatic_backEnd.Core\\Shared\\Results\\Error.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\2-back-end\\E-Commerce\\Causmatic_backEnd.Testing\\TestProviders\\TestAsyncQueryProvider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Causmatic_backEnd.Testing\\TestProviders\\TestAsyncQueryProvider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 13,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:8:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RolesController.cs",
+              "DocumentMoniker": "F:\\2-back-end\\E-Commerce\\Causmatic_backEnd\\Controllers\\RolesController.cs",
+              "RelativeDocumentMoniker": "Causmatic_backEnd\\Controllers\\RolesController.cs",
+              "ToolTip": "F:\\2-back-end\\E-Commerce\\Causmatic_backEnd\\Controllers\\RolesController.cs",
+              "RelativeToolTip": "Causmatic_backEnd\\Controllers\\RolesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T10:12:43.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "F:\\2-back-end\\E-Commerce\\Causmatic_backEnd\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Causmatic_backEnd\\Controllers\\AuthController.cs",
+              "ToolTip": "F:\\2-back-end\\E-Commerce\\Causmatic_backEnd\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Causmatic_backEnd\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T10:11:59.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DeletedItemsCleanupService.cs",
+              "DocumentMoniker": "F:\\2-back-end\\E-Commerce\\Causmatic_backEnd.Service\\Common\\BackGroundJobs\\DeletedItemsCleanupService.cs",
+              "RelativeDocumentMoniker": "Causmatic_backEnd.Service\\Common\\BackGroundJobs\\DeletedItemsCleanupService.cs",
+              "ToolTip": "F:\\2-back-end\\E-Commerce\\Causmatic_backEnd.Service\\Common\\BackGroundJobs\\DeletedItemsCleanupService.cs",
+              "RelativeToolTip": "Causmatic_backEnd.Service\\Common\\BackGroundJobs\\DeletedItemsCleanupService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T10:11:27.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "F:\\2-back-end\\E-Commerce\\Causmatic_backEnd.Service\\Services\\Core\\ProductService.cs",
+              "RelativeDocumentMoniker": "Causmatic_backEnd.Service\\Services\\Core\\ProductService.cs",
+              "ToolTip": "F:\\2-back-end\\E-Commerce\\Causmatic_backEnd.Service\\Services\\Core\\ProductService.cs",
+              "RelativeToolTip": "Causmatic_backEnd.Service\\Services\\Core\\ProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T10:09:41.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GlobalUsings.cs",
+              "DocumentMoniker": "F:\\2-back-end\\E-Commerce\\Causmatic_backEnd.Service\\GlobalUsings.cs",
+              "RelativeDocumentMoniker": "Causmatic_backEnd.Service\\GlobalUsings.cs",
+              "ToolTip": "F:\\2-back-end\\E-Commerce\\Causmatic_backEnd.Service\\GlobalUsings.cs",
+              "RelativeToolTip": "Causmatic_backEnd.Service\\GlobalUsings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T13:07:09.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmailSenderService.cs",
+              "DocumentMoniker": "F:\\2-back-end\\E-Commerce\\Causmatic_backEnd.Service\\Services\\Authentication\\EmailSenderService.cs",
+              "RelativeDocumentMoniker": "Causmatic_backEnd.Service\\Services\\Authentication\\EmailSenderService.cs",
+              "ToolTip": "F:\\2-back-end\\E-Commerce\\Causmatic_backEnd.Service\\Services\\Authentication\\EmailSenderService.cs",
+              "RelativeToolTip": "Causmatic_backEnd.Service\\Services\\Authentication\\EmailSenderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T13:06:31.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SMSService.cs",
+              "DocumentMoniker": "F:\\2-back-end\\E-Commerce\\Causmatic_backEnd.Service\\Services\\Authentication\\SMSService.cs",
+              "RelativeDocumentMoniker": "Causmatic_backEnd.Service\\Services\\Authentication\\SMSService.cs",
+              "ToolTip": "F:\\2-back-end\\E-Commerce\\Causmatic_backEnd.Service\\Services\\Authentication\\SMSService.cs",
+              "RelativeToolTip": "Causmatic_backEnd.Service\\Services\\Authentication\\SMSService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T12:08:49.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RoleService.cs",
+              "DocumentMoniker": "F:\\2-back-end\\E-Commerce\\Causmatic_backEnd.Service\\Services\\Authentication\\RoleService.cs",
+              "RelativeDocumentMoniker": "Causmatic_backEnd.Service\\Services\\Authentication\\RoleService.cs",
+              "ToolTip": "F:\\2-back-end\\E-Commerce\\Causmatic_backEnd.Service\\Services\\Authentication\\RoleService.cs",
+              "RelativeToolTip": "Causmatic_backEnd.Service\\Services\\Authentication\\RoleService.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T12:08:37.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "F:\\2-back-end\\E-Commerce\\Causmatic_backEnd.Service\\Services\\Authentication\\UserService.cs",
+              "RelativeDocumentMoniker": "Causmatic_backEnd.Service\\Services\\Authentication\\UserService.cs",
+              "ToolTip": "F:\\2-back-end\\E-Commerce\\Causmatic_backEnd.Service\\Services\\Authentication\\UserService.cs",
+              "RelativeToolTip": "Causmatic_backEnd.Service\\Services\\Authentication\\UserService.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAIBQwDsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T12:08:10.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "F:\\2-back-end\\E-Commerce\\Causmatic_backEnd\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Causmatic_backEnd\\Controllers\\ProductController.cs",
+              "ToolTip": "F:\\2-back-end\\E-Commerce\\Causmatic_backEnd\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Causmatic_backEnd\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T11:30:42.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProfileController.cs",
+              "DocumentMoniker": "F:\\2-back-end\\E-Commerce\\Causmatic_backEnd\\Controllers\\ProfileController.cs",
+              "RelativeDocumentMoniker": "Causmatic_backEnd\\Controllers\\ProfileController.cs",
+              "ToolTip": "F:\\2-back-end\\E-Commerce\\Causmatic_backEnd\\Controllers\\ProfileController.cs",
+              "RelativeToolTip": "Causmatic_backEnd\\Controllers\\ProfileController.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T11:30:58.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PhotoController.cs",
+              "DocumentMoniker": "F:\\2-back-end\\E-Commerce\\Causmatic_backEnd\\Controllers\\PhotoController.cs",
+              "RelativeDocumentMoniker": "Causmatic_backEnd\\Controllers\\PhotoController.cs",
+              "ToolTip": "F:\\2-back-end\\E-Commerce\\Causmatic_backEnd\\Controllers\\PhotoController.cs",
+              "RelativeToolTip": "Causmatic_backEnd\\Controllers\\PhotoController.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T11:30:23.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "F:\\2-back-end\\E-Commerce\\Causmatic_backEnd\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "Causmatic_backEnd\\Controllers\\OrderController.cs",
+              "ToolTip": "F:\\2-back-end\\E-Commerce\\Causmatic_backEnd\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "Causmatic_backEnd\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAALsAAAAAAAAAAAAcwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T11:29:13.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "JwtAuthService.cs",
+              "DocumentMoniker": "F:\\2-back-end\\E-Commerce\\Causmatic_backEnd.Service\\Services\\Authentication\\JwtAuthService.cs",
+              "RelativeDocumentMoniker": "Causmatic_backEnd.Service\\Services\\Authentication\\JwtAuthService.cs",
+              "ToolTip": "F:\\2-back-end\\E-Commerce\\Causmatic_backEnd.Service\\Services\\Authentication\\JwtAuthService.cs",
+              "RelativeToolTip": "Causmatic_backEnd.Service\\Services\\Authentication\\JwtAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T10:29:59.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CommonExtensions.cs",
+              "DocumentMoniker": "F:\\2-back-end\\E-Commerce\\Causmatic_backEnd\\Extensions\\CommonExtensions.cs",
+              "RelativeDocumentMoniker": "Causmatic_backEnd\\Extensions\\CommonExtensions.cs",
+              "ToolTip": "F:\\2-back-end\\E-Commerce\\Causmatic_backEnd\\Extensions\\CommonExtensions.cs",
+              "RelativeToolTip": "Causmatic_backEnd\\Extensions\\CommonExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T09:02:29.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EmailExtension.cs",
+              "DocumentMoniker": "F:\\2-back-end\\E-Commerce\\Causmatic_backEnd\\Extensions\\EmailExtension.cs",
+              "RelativeDocumentMoniker": "Causmatic_backEnd\\Extensions\\EmailExtension.cs",
+              "ToolTip": "F:\\2-back-end\\E-Commerce\\Causmatic_backEnd\\Extensions\\EmailExtension.cs",
+              "RelativeToolTip": "Causmatic_backEnd\\Extensions\\EmailExtension.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T08:56:33.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "F:\\2-back-end\\E-Commerce\\Causmatic_backEnd.Repository\\Repositories\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "Causmatic_backEnd.Repository\\Repositories\\UnitOfWork.cs",
+              "ToolTip": "F:\\2-back-end\\E-Commerce\\Causmatic_backEnd.Repository\\Repositories\\UnitOfWork.cs",
+              "RelativeToolTip": "Causmatic_backEnd.Repository\\Repositories\\UnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T21:51:50.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Result.cs",
+              "DocumentMoniker": "F:\\2-back-end\\E-Commerce\\Causmatic_backEnd.Core\\Shared\\Results\\Result.cs",
+              "RelativeDocumentMoniker": "Causmatic_backEnd.Core\\Shared\\Results\\Result.cs",
+              "ToolTip": "F:\\2-back-end\\E-Commerce\\Causmatic_backEnd.Core\\Shared\\Results\\Result.cs",
+              "RelativeToolTip": "Causmatic_backEnd.Core\\Shared\\Results\\Result.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T11:40:31.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ErrorResponse.cs",
+              "DocumentMoniker": "F:\\2-back-end\\E-Commerce\\Causmatic_backEnd.Core\\Shared\\Results\\ErrorResponse.cs",
+              "RelativeDocumentMoniker": "Causmatic_backEnd.Core\\Shared\\Results\\ErrorResponse.cs",
+              "ToolTip": "F:\\2-back-end\\E-Commerce\\Causmatic_backEnd.Core\\Shared\\Results\\ErrorResponse.cs",
+              "RelativeToolTip": "Causmatic_backEnd.Core\\Shared\\Results\\ErrorResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T11:40:26.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Error.cs",
+              "DocumentMoniker": "F:\\2-back-end\\E-Commerce\\Causmatic_backEnd.Core\\Shared\\Results\\Error.cs",
+              "RelativeDocumentMoniker": "Causmatic_backEnd.Core\\Shared\\Results\\Error.cs",
+              "ToolTip": "F:\\2-back-end\\E-Commerce\\Causmatic_backEnd.Core\\Shared\\Results\\Error.cs",
+              "RelativeToolTip": "Causmatic_backEnd.Core\\Shared\\Results\\Error.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAiwDwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T11:39:58.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "TestAsyncQueryProvider.cs",
+              "DocumentMoniker": "F:\\2-back-end\\E-Commerce\\Causmatic_backEnd.Testing\\TestProviders\\TestAsyncQueryProvider.cs",
+              "RelativeDocumentMoniker": "Causmatic_backEnd.Testing\\TestProviders\\TestAsyncQueryProvider.cs",
+              "ToolTip": "F:\\2-back-end\\E-Commerce\\Causmatic_backEnd.Testing\\TestProviders\\TestAsyncQueryProvider.cs",
+              "RelativeToolTip": "Causmatic_backEnd.Testing\\TestProviders\\TestAsyncQueryProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T17:46:17.323Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 313,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

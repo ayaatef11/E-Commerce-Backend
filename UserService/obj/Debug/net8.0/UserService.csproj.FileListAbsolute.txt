@@ -1,6 +1,0 @@
-F:\full-stack\ServiceIntegration\UserService\obj\Debug\net8.0\UserService.csproj.AssemblyReference.cache
-F:\full-stack\ServiceIntegration\UserService\obj\Debug\net8.0\UserService.GeneratedMSBuildEditorConfig.editorconfig
-F:\full-stack\ServiceIntegration\UserService\obj\Debug\net8.0\UserService.AssemblyInfoInputs.cache
-F:\full-stack\ServiceIntegration\UserService\obj\Debug\net8.0\UserService.AssemblyInfo.cs
-F:\full-stack\ServiceIntegration\UserService\obj\Debug\net8.0\UserService.csproj.CoreCompileInputs.cache
-F:\full-stack\ServiceIntegration\UserService\obj\Debug\net8.0\UserService.MvcApplicationPartsAssemblyInfo.cache

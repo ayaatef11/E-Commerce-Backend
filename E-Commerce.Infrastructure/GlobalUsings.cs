@@ -1,0 +1,9 @@
+﻿global using Microsoft.AspNetCore.Identity;
+global using Microsoft.Extensions.DependencyInjection;
+global using E_Commerce.Core.Models.AuthModels;
+global using E_Commerce.Core.Shared.Utilties;
+global using E_Commerce.Core.Data;
+global using E_Commerce.Core.Models.ProductModels;
+global using System.Text.Json;
+global using Microsoft.EntityFrameworkCore;
+global using Microsoft.Extensions.Logging;

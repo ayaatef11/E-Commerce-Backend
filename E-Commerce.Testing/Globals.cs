@@ -1,0 +1,13 @@
+﻿global using Bogus;
+global using E_Commerce.Core.Data.Stores;
+global using E_Commerce.Core.Models.AuthModels;
+global using E_Commerce.Core.Models.OrderModels;
+global using E_Commerce.Core.Models.ProductModels;
+global using E_Commerce.Repository.Repositories.Interfaces;
+global using E_Commerce.Repository.Specifications.OrderSpecifications;
+global using E_Commerce.Testing;
+global using FluentAssertions;
+global using Microsoft.AspNetCore.Http;
+global using Microsoft.AspNetCore.Identity;
+global using Microsoft.EntityFrameworkCore;
+global using Moq;

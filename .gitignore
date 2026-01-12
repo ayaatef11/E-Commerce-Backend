@@ -1,8 +1,0 @@
-appsettings.json
-appsettings.development.json
-OrdersAndItemsService.csproj
-OrdersAndItemsService.csproj.user
-UserService.csproj.user
-UserService.csproj
-bin/
-obj/

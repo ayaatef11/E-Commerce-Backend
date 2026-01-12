@@ -1,0 +1,16 @@
+G:\5-Ashrakat\Causmatic Store\Backend\Causmatic_backEnd.Repository\bin\Debug\net9.0\Causmatic_backEnd.Repository.deps.json
+G:\5-Ashrakat\Causmatic Store\Backend\Causmatic_backEnd.Repository\bin\Debug\net9.0\Causmatic_backEnd.Repository.dll
+G:\5-Ashrakat\Causmatic Store\Backend\Causmatic_backEnd.Repository\bin\Debug\net9.0\Causmatic_backEnd.Repository.pdb
+G:\5-Ashrakat\Causmatic Store\Backend\Causmatic_backEnd.Repository\bin\Debug\net9.0\Causmatic_backEnd.Core.dll
+G:\5-Ashrakat\Causmatic Store\Backend\Causmatic_backEnd.Repository\bin\Debug\net9.0\Causmatic_backEnd.Core.pdb
+G:\5-Ashrakat\Causmatic Store\Backend\Causmatic_backEnd.Repository\obj\Debug\net9.0\Causmatic_backEnd.Repository.csproj.AssemblyReference.cache
+G:\5-Ashrakat\Causmatic Store\Backend\Causmatic_backEnd.Repository\obj\Debug\net9.0\Causmatic_backEnd.Repository.GeneratedMSBuildEditorConfig.editorconfig
+G:\5-Ashrakat\Causmatic Store\Backend\Causmatic_backEnd.Repository\obj\Debug\net9.0\Causmatic_backEnd.Repository.AssemblyInfoInputs.cache
+G:\5-Ashrakat\Causmatic Store\Backend\Causmatic_backEnd.Repository\obj\Debug\net9.0\Causmatic_backEnd.Repository.AssemblyInfo.cs
+G:\5-Ashrakat\Causmatic Store\Backend\Causmatic_backEnd.Repository\obj\Debug\net9.0\Causmatic_backEnd.Repository.csproj.CoreCompileInputs.cache
+G:\5-Ashrakat\Causmatic Store\Backend\Causmatic_backEnd.Repository\obj\Debug\net9.0\Causmati.4DD975AE.Up2Date
+G:\5-Ashrakat\Causmatic Store\Backend\Causmatic_backEnd.Repository\obj\Debug\net9.0\Causmatic_backEnd.Repository.dll
+G:\5-Ashrakat\Causmatic Store\Backend\Causmatic_backEnd.Repository\obj\Debug\net9.0\refint\Causmatic_backEnd.Repository.dll
+G:\5-Ashrakat\Causmatic Store\Backend\Causmatic_backEnd.Repository\obj\Debug\net9.0\Causmatic_backEnd.Repository.pdb
+G:\5-Ashrakat\Causmatic Store\Backend\Causmatic_backEnd.Repository\obj\Debug\net9.0\ref\Causmatic_backEnd.Repository.dll
+G:\5-Ashrakat\Causmatic Store\Backend\Causmatic_backEnd.Repository\obj\Debug\net9.0\Causmatic_backEnd.Repository.sourcelink.json

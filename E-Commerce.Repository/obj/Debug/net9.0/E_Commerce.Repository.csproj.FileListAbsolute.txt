@@ -1,0 +1,16 @@
+F:\2-back-end\E-Commerce\E-Commerce.Repository\bin\Debug\net9.0\E_Commerce.Repository.deps.json
+F:\2-back-end\E-Commerce\E-Commerce.Repository\bin\Debug\net9.0\E_Commerce.Repository.dll
+F:\2-back-end\E-Commerce\E-Commerce.Repository\bin\Debug\net9.0\E_Commerce.Repository.pdb
+F:\2-back-end\E-Commerce\E-Commerce.Repository\bin\Debug\net9.0\E_Commerce.Core.dll
+F:\2-back-end\E-Commerce\E-Commerce.Repository\bin\Debug\net9.0\E_Commerce.Core.pdb
+F:\2-back-end\E-Commerce\E-Commerce.Repository\obj\Debug\net9.0\E_Commerce.Repository.csproj.AssemblyReference.cache
+F:\2-back-end\E-Commerce\E-Commerce.Repository\obj\Debug\net9.0\E_Commerce.Repository.GeneratedMSBuildEditorConfig.editorconfig
+F:\2-back-end\E-Commerce\E-Commerce.Repository\obj\Debug\net9.0\E_Commerce.Repository.AssemblyInfoInputs.cache
+F:\2-back-end\E-Commerce\E-Commerce.Repository\obj\Debug\net9.0\E_Commerce.Repository.AssemblyInfo.cs
+F:\2-back-end\E-Commerce\E-Commerce.Repository\obj\Debug\net9.0\E_Commerce.Repository.csproj.CoreCompileInputs.cache
+F:\2-back-end\E-Commerce\E-Commerce.Repository\obj\Debug\net9.0\E_Commerce.Repository.sourcelink.json
+F:\2-back-end\E-Commerce\E-Commerce.Repository\obj\Debug\net9.0\E_Commer.F3A889D2.Up2Date
+F:\2-back-end\E-Commerce\E-Commerce.Repository\obj\Debug\net9.0\E_Commerce.Repository.dll
+F:\2-back-end\E-Commerce\E-Commerce.Repository\obj\Debug\net9.0\refint\E_Commerce.Repository.dll
+F:\2-back-end\E-Commerce\E-Commerce.Repository\obj\Debug\net9.0\E_Commerce.Repository.pdb
+F:\2-back-end\E-Commerce\E-Commerce.Repository\obj\Debug\net9.0\ref\E_Commerce.Repository.dll

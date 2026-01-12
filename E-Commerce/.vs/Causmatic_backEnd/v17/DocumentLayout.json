@@ -1,0 +1,526 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\Ashrakat\\Backend\\Causmatic_backEnd\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A54C1864-B74B-452F-8C9D-1D643534365B}|..\\Causmatic_backEnd.IntegrationTesting\\Causmatic_backEnd.IntegrationTesting.csproj|g:\\ashrakat\\backend\\causmatic_backend.integrationtesting\\external\\paymentgatewaytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A54C1864-B74B-452F-8C9D-1D643534365B}|..\\Causmatic_backEnd.IntegrationTesting\\Causmatic_backEnd.IntegrationTesting.csproj|g:\\ashrakat\\backend\\causmatic_backend.integrationtesting\\databases\\databasemigrationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A54C1864-B74B-452F-8C9D-1D643534365B}|..\\Causmatic_backEnd.IntegrationTesting\\Causmatic_backEnd.IntegrationTesting.csproj|g:\\ashrakat\\backend\\causmatic_backend.integrationtesting\\controllers\\orderscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A54C1864-B74B-452F-8C9D-1D643534365B}|..\\Causmatic_backEnd.IntegrationTesting\\Causmatic_backEnd.IntegrationTesting.csproj|g:\\ashrakat\\backend\\causmatic_backend.integrationtesting\\features\\databasefixture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A54C1864-B74B-452F-8C9D-1D643534365B}|..\\Causmatic_backEnd.IntegrationTesting\\Causmatic_backEnd.IntegrationTesting.csproj|g:\\ashrakat\\backend\\causmatic_backend.integrationtesting\\services\\orderserviceintegrationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A54C1864-B74B-452F-8C9D-1D643534365B}|..\\Causmatic_backEnd.IntegrationTesting\\Causmatic_backEnd.IntegrationTesting.csproj|g:\\ashrakat\\backend\\causmatic_backend.integrationtesting\\causmatic_backend.integrationtesting.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A3EFA61-25FB-44BD-873A-2490A74C1FB1}|Causmatic_backEnd.csproj|g:\\ashrakat\\backend\\causmatic_backend\\exceptions\\apikeyvalidationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A3EFA61-25FB-44BD-873A-2490A74C1FB1}|Causmatic_backEnd.csproj|solutionrelative:exceptions\\apikeyvalidationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A3EFA61-25FB-44BD-873A-2490A74C1FB1}|Causmatic_backEnd.csproj|g:\\ashrakat\\backend\\causmatic_backend\\extensions\\applicationextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A3EFA61-25FB-44BD-873A-2490A74C1FB1}|Causmatic_backEnd.csproj|solutionrelative:extensions\\applicationextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0933C535-0291-4F5A-90E7-4D274CB053EE}|..\\Causmatic_backEnd.Repository\\Causmatic_backEnd.Repository.csproj|g:\\ashrakat\\backend\\causmatic_backend.repository\\repositories\\cartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A3EFA61-25FB-44BD-873A-2490A74C1FB1}|Causmatic_backEnd.csproj|g:\\ashrakat\\backend\\causmatic_backend\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A3EFA61-25FB-44BD-873A-2490A74C1FB1}|Causmatic_backEnd.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A3EFA61-25FB-44BD-873A-2490A74C1FB1}|Causmatic_backEnd.csproj|g:\\ashrakat\\backend\\causmatic_backend\\extensions\\commonextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A3EFA61-25FB-44BD-873A-2490A74C1FB1}|Causmatic_backEnd.csproj|solutionrelative:extensions\\commonextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A3EFA61-25FB-44BD-873A-2490A74C1FB1}|Causmatic_backEnd.csproj|g:\\ashrakat\\backend\\causmatic_backend\\extensions\\serviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A3EFA61-25FB-44BD-873A-2490A74C1FB1}|Causmatic_backEnd.csproj|solutionrelative:extensions\\serviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A3EFA61-25FB-44BD-873A-2490A74C1FB1}|Causmatic_backEnd.csproj|g:\\ashrakat\\backend\\causmatic_backend\\extensions\\emailextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A3EFA61-25FB-44BD-873A-2490A74C1FB1}|Causmatic_backEnd.csproj|solutionrelative:extensions\\emailextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A3EFA61-25FB-44BD-873A-2490A74C1FB1}|Causmatic_backEnd.csproj|g:\\ashrakat\\backend\\causmatic_backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6A3EFA61-25FB-44BD-873A-2490A74C1FB1}|Causmatic_backEnd.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29812ADF-13FA-46E9-98A4-9F8F692853EE}|..\\Causmatic_backEnd.Service\\Causmatic_backEnd.Service.csproj|g:\\ashrakat\\backend\\causmatic_backend.service\\services\\emailsenderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D950E29A-318A-43CA-BFB1-93F3AEF71557}|..\\Causmatic_backEnd.Testing\\Causmatic_backEnd.Testing.csproj|g:\\ashrakat\\backend\\causmatic_backend.testing\\services\\orderservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D950E29A-318A-43CA-BFB1-93F3AEF71557}|..\\Causmatic_backEnd.Testing\\Causmatic_backEnd.Testing.csproj|g:\\ashrakat\\backend\\causmatic_backend.testing\\causmatic_backend.testing.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0933C535-0291-4F5A-90E7-4D274CB053EE}|..\\Causmatic_backEnd.Repository\\Causmatic_backEnd.Repository.csproj|g:\\ashrakat\\backend\\causmatic_backend.repository\\repositories\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A3EFA61-25FB-44BD-873A-2490A74C1FB1}|Causmatic_backEnd.csproj|g:\\ashrakat\\backend\\causmatic_backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A3EFA61-25FB-44BD-873A-2490A74C1FB1}|Causmatic_backEnd.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29812ADF-13FA-46E9-98A4-9F8F692853EE}|..\\Causmatic_backEnd.Service\\Causmatic_backEnd.Service.csproj|g:\\ashrakat\\backend\\causmatic_backend.service\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A2E0C5A-5EA2-4230-A13E-FA08738DEF95}|..\\Causmatic_backEnd.Core\\Causmatic_backEnd.Core.csproj|g:\\ashrakat\\backend\\causmatic_backend.core\\models\\ordermodels\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29812ADF-13FA-46E9-98A4-9F8F692853EE}|..\\Causmatic_backEnd.Service\\Causmatic_backEnd.Service.csproj|g:\\ashrakat\\backend\\causmatic_backend.service\\services\\cartservicewithredis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29812ADF-13FA-46E9-98A4-9F8F692853EE}|..\\Causmatic_backEnd.Service\\Causmatic_backEnd.Service.csproj|g:\\ashrakat\\backend\\causmatic_backend.service\\services\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A3EFA61-25FB-44BD-873A-2490A74C1FB1}|Causmatic_backEnd.csproj|g:\\ashrakat\\backend\\causmatic_backend\\controllers\\claimscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A3EFA61-25FB-44BD-873A-2490A74C1FB1}|Causmatic_backEnd.csproj|solutionrelative:controllers\\claimscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A3EFA61-25FB-44BD-873A-2490A74C1FB1}|Causmatic_backEnd.csproj|g:\\ashrakat\\backend\\causmatic_backend\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A3EFA61-25FB-44BD-873A-2490A74C1FB1}|Causmatic_backEnd.csproj|solutionrelative:controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A3EFA61-25FB-44BD-873A-2490A74C1FB1}|Causmatic_backEnd.csproj|g:\\ashrakat\\backend\\causmatic_backend\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A3EFA61-25FB-44BD-873A-2490A74C1FB1}|Causmatic_backEnd.csproj|solutionrelative:exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A3EFA61-25FB-44BD-873A-2490A74C1FB1}|Causmatic_backEnd.csproj|g:\\ashrakat\\backend\\causmatic_backend\\exceptions\\internalserverexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A3EFA61-25FB-44BD-873A-2490A74C1FB1}|Causmatic_backEnd.csproj|solutionrelative:exceptions\\internalserverexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A3EFA61-25FB-44BD-873A-2490A74C1FB1}|Causmatic_backEnd.csproj|g:\\ashrakat\\backend\\causmatic_backend\\exceptions\\forbiddenaccessexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A3EFA61-25FB-44BD-873A-2490A74C1FB1}|Causmatic_backEnd.csproj|solutionrelative:exceptions\\forbiddenaccessexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A3EFA61-25FB-44BD-873A-2490A74C1FB1}|Causmatic_backEnd.csproj|g:\\ashrakat\\backend\\causmatic_backend\\exceptions\\badrequestexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A3EFA61-25FB-44BD-873A-2490A74C1FB1}|Causmatic_backEnd.csproj|solutionrelative:exceptions\\badrequestexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DatabaseFixture.cs",
+              "DocumentMoniker": "G:\\Ashrakat\\Backend\\Causmatic_backEnd.IntegrationTesting\\Features\\DatabaseFixture.cs",
+              "RelativeDocumentMoniker": "..\\Causmatic_backEnd.IntegrationTesting\\Features\\DatabaseFixture.cs",
+              "ToolTip": "G:\\Ashrakat\\Backend\\Causmatic_backEnd.IntegrationTesting\\Features\\DatabaseFixture.cs",
+              "RelativeToolTip": "..\\Causmatic_backEnd.IntegrationTesting\\Features\\DatabaseFixture.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T07:07:18.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PaymentGatewayTests.cs",
+              "DocumentMoniker": "G:\\Ashrakat\\Backend\\Causmatic_backEnd.IntegrationTesting\\External\\PaymentGatewayTests.cs",
+              "RelativeDocumentMoniker": "..\\Causmatic_backEnd.IntegrationTesting\\External\\PaymentGatewayTests.cs",
+              "ToolTip": "G:\\Ashrakat\\Backend\\Causmatic_backEnd.IntegrationTesting\\External\\PaymentGatewayTests.cs",
+              "RelativeToolTip": "..\\Causmatic_backEnd.IntegrationTesting\\External\\PaymentGatewayTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T07:06:36.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DataBaseMigrationTests.cs",
+              "DocumentMoniker": "G:\\Ashrakat\\Backend\\Causmatic_backEnd.IntegrationTesting\\Databases\\DataBaseMigrationTests.cs",
+              "RelativeDocumentMoniker": "..\\Causmatic_backEnd.IntegrationTesting\\Databases\\DataBaseMigrationTests.cs",
+              "ToolTip": "G:\\Ashrakat\\Backend\\Causmatic_backEnd.IntegrationTesting\\Databases\\DataBaseMigrationTests.cs",
+              "RelativeToolTip": "..\\Causmatic_backEnd.IntegrationTesting\\Databases\\DataBaseMigrationTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T07:05:35.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderServiceIntegrationTests.cs",
+              "DocumentMoniker": "G:\\Ashrakat\\Backend\\Causmatic_backEnd.IntegrationTesting\\Services\\OrderServiceIntegrationTests.cs",
+              "RelativeDocumentMoniker": "..\\Causmatic_backEnd.IntegrationTesting\\Services\\OrderServiceIntegrationTests.cs",
+              "ToolTip": "G:\\Ashrakat\\Backend\\Causmatic_backEnd.IntegrationTesting\\Services\\OrderServiceIntegrationTests.cs",
+              "RelativeToolTip": "..\\Causmatic_backEnd.IntegrationTesting\\Services\\OrderServiceIntegrationTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T07:04:36.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrdersControllerTests.cs",
+              "DocumentMoniker": "G:\\Ashrakat\\Backend\\Causmatic_backEnd.IntegrationTesting\\Controllers\\OrdersControllerTests.cs",
+              "RelativeDocumentMoniker": "..\\Causmatic_backEnd.IntegrationTesting\\Controllers\\OrdersControllerTests.cs",
+              "ToolTip": "G:\\Ashrakat\\Backend\\Causmatic_backEnd.IntegrationTesting\\Controllers\\OrdersControllerTests.cs",
+              "RelativeToolTip": "..\\Causmatic_backEnd.IntegrationTesting\\Controllers\\OrdersControllerTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T05:48:37.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Causmatic_backEnd.IntegrationTesting",
+              "DocumentMoniker": "G:\\Ashrakat\\Backend\\Causmatic_backEnd.IntegrationTesting\\Causmatic_backEnd.IntegrationTesting.csproj",
+              "RelativeDocumentMoniker": "..\\Causmatic_backEnd.IntegrationTesting\\Causmatic_backEnd.IntegrationTesting.csproj",
+              "ToolTip": "G:\\Ashrakat\\Backend\\Causmatic_backEnd.IntegrationTesting\\Causmatic_backEnd.IntegrationTesting.csproj",
+              "RelativeToolTip": "..\\Causmatic_backEnd.IntegrationTesting\\Causmatic_backEnd.IntegrationTesting.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-04T05:47:27.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CartRepository.cs",
+              "DocumentMoniker": "G:\\Ashrakat\\Backend\\Causmatic_backEnd.Repository\\Repositories\\CartRepository.cs",
+              "RelativeDocumentMoniker": "..\\Causmatic_backEnd.Repository\\Repositories\\CartRepository.cs",
+              "ToolTip": "G:\\Ashrakat\\Backend\\Causmatic_backEnd.Repository\\Repositories\\CartRepository.cs",
+              "RelativeToolTip": "..\\Causmatic_backEnd.Repository\\Repositories\\CartRepository.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAUwHkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T05:26:14.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "G:\\Ashrakat\\Backend\\Causmatic_backEnd\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "G:\\Ashrakat\\Backend\\Causmatic_backEnd\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T05:21:41.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CommonExtensions.cs",
+              "DocumentMoniker": "G:\\Ashrakat\\Backend\\Causmatic_backEnd\\Extensions\\CommonExtensions.cs",
+              "RelativeDocumentMoniker": "Extensions\\CommonExtensions.cs",
+              "ToolTip": "G:\\Ashrakat\\Backend\\Causmatic_backEnd\\Extensions\\CommonExtensions.cs",
+              "RelativeToolTip": "Extensions\\CommonExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T05:21:20.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ServiceExtension.cs",
+              "DocumentMoniker": "G:\\Ashrakat\\Backend\\Causmatic_backEnd\\Extensions\\ServiceExtension.cs",
+              "RelativeDocumentMoniker": "Extensions\\ServiceExtension.cs",
+              "ToolTip": "G:\\Ashrakat\\Backend\\Causmatic_backEnd\\Extensions\\ServiceExtension.cs",
+              "RelativeToolTip": "Extensions\\ServiceExtension.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T05:21:15.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EmailExtension.cs",
+              "DocumentMoniker": "G:\\Ashrakat\\Backend\\Causmatic_backEnd\\Extensions\\EmailExtension.cs",
+              "RelativeDocumentMoniker": "Extensions\\EmailExtension.cs",
+              "ToolTip": "G:\\Ashrakat\\Backend\\Causmatic_backEnd\\Extensions\\EmailExtension.cs",
+              "RelativeToolTip": "Extensions\\EmailExtension.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T05:21:08.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "G:\\Ashrakat\\Backend\\Causmatic_backEnd\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "G:\\Ashrakat\\Backend\\Causmatic_backEnd\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-04T05:21:00.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApplicationExtension.cs",
+              "DocumentMoniker": "G:\\Ashrakat\\Backend\\Causmatic_backEnd\\Extensions\\ApplicationExtension.cs",
+              "RelativeDocumentMoniker": "Extensions\\ApplicationExtension.cs",
+              "ToolTip": "G:\\Ashrakat\\Backend\\Causmatic_backEnd\\Extensions\\ApplicationExtension.cs",
+              "RelativeToolTip": "Extensions\\ApplicationExtension.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T05:19:15.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EmailSenderService.cs",
+              "DocumentMoniker": "G:\\Ashrakat\\Backend\\Causmatic_backEnd.Service\\Services\\EmailSenderService.cs",
+              "RelativeDocumentMoniker": "..\\Causmatic_backEnd.Service\\Services\\EmailSenderService.cs",
+              "ToolTip": "G:\\Ashrakat\\Backend\\Causmatic_backEnd.Service\\Services\\EmailSenderService.cs",
+              "RelativeToolTip": "..\\Causmatic_backEnd.Service\\Services\\EmailSenderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T05:17:58.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Causmatic_backEnd.Testing",
+              "DocumentMoniker": "G:\\Ashrakat\\Backend\\Causmatic_backEnd.Testing\\Causmatic_backEnd.Testing.csproj",
+              "RelativeDocumentMoniker": "..\\Causmatic_backEnd.Testing\\Causmatic_backEnd.Testing.csproj",
+              "ToolTip": "G:\\Ashrakat\\Backend\\Causmatic_backEnd.Testing\\Causmatic_backEnd.Testing.csproj",
+              "RelativeToolTip": "..\\Causmatic_backEnd.Testing\\Causmatic_backEnd.Testing.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-04T05:09:12.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "G:\\Ashrakat\\Backend\\Causmatic_backEnd.Repository\\Repositories\\Interfaces\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "..\\Causmatic_backEnd.Repository\\Repositories\\Interfaces\\IGenericRepository.cs",
+              "ToolTip": "G:\\Ashrakat\\Backend\\Causmatic_backEnd.Repository\\Repositories\\Interfaces\\IGenericRepository.cs",
+              "RelativeToolTip": "..\\Causmatic_backEnd.Repository\\Repositories\\Interfaces\\IGenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T04:48:06.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\Ashrakat\\Backend\\Causmatic_backEnd\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "G:\\Ashrakat\\Backend\\Causmatic_backEnd\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACgAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T03:59:37.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:8:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Order.cs",
+              "DocumentMoniker": "G:\\Ashrakat\\Backend\\Causmatic_backEnd.Core\\Models\\OrderModels\\Order.cs",
+              "RelativeDocumentMoniker": "..\\Causmatic_backEnd.Core\\Models\\OrderModels\\Order.cs",
+              "ToolTip": "G:\\Ashrakat\\Backend\\Causmatic_backEnd.Core\\Models\\OrderModels\\Order.cs",
+              "RelativeToolTip": "..\\Causmatic_backEnd.Core\\Models\\OrderModels\\Order.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwBcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T03:42:12.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "OrderServiceTest.cs",
+              "DocumentMoniker": "G:\\Ashrakat\\Backend\\Causmatic_backEnd.Testing\\Services\\OrderServiceTest.cs",
+              "RelativeDocumentMoniker": "..\\Causmatic_backEnd.Testing\\Services\\OrderServiceTest.cs",
+              "ToolTip": "G:\\Ashrakat\\Backend\\Causmatic_backEnd.Testing\\Services\\OrderServiceTest.cs",
+              "RelativeToolTip": "..\\Causmatic_backEnd.Testing\\Services\\OrderServiceTest.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAADwv1YAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T03:38:21.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "G:\\Ashrakat\\Backend\\Causmatic_backEnd.Service\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "..\\Causmatic_backEnd.Service\\Services\\OrderService.cs",
+              "ToolTip": "G:\\Ashrakat\\Backend\\Causmatic_backEnd.Service\\Services\\OrderService.cs",
+              "RelativeToolTip": "..\\Causmatic_backEnd.Service\\Services\\OrderService.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAswG4AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T03:38:07.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CartServiceWithRedis.cs",
+              "DocumentMoniker": "G:\\Ashrakat\\Backend\\Causmatic_backEnd.Service\\Services\\CartServiceWithRedis.cs",
+              "RelativeDocumentMoniker": "..\\Causmatic_backEnd.Service\\Services\\CartServiceWithRedis.cs",
+              "ToolTip": "G:\\Ashrakat\\Backend\\Causmatic_backEnd.Service\\Services\\CartServiceWithRedis.cs",
+              "RelativeToolTip": "..\\Causmatic_backEnd.Service\\Services\\CartServiceWithRedis.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T03:38:01.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CartService.cs",
+              "DocumentMoniker": "G:\\Ashrakat\\Backend\\Causmatic_backEnd.Service\\Services\\CartService.cs",
+              "RelativeDocumentMoniker": "..\\Causmatic_backEnd.Service\\Services\\CartService.cs",
+              "ToolTip": "G:\\Ashrakat\\Backend\\Causmatic_backEnd.Service\\Services\\CartService.cs",
+              "RelativeToolTip": "..\\Causmatic_backEnd.Service\\Services\\CartService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T03:37:58.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ClaimsController.cs",
+              "DocumentMoniker": "G:\\Ashrakat\\Backend\\Causmatic_backEnd\\Controllers\\ClaimsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ClaimsController.cs",
+              "ToolTip": "G:\\Ashrakat\\Backend\\Causmatic_backEnd\\Controllers\\ClaimsController.cs",
+              "RelativeToolTip": "Controllers\\ClaimsController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T03:37:34.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "G:\\Ashrakat\\Backend\\Causmatic_backEnd\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CartController.cs",
+              "ToolTip": "G:\\Ashrakat\\Backend\\Causmatic_backEnd\\Controllers\\CartController.cs",
+              "RelativeToolTip": "Controllers\\CartController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T03:37:32.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "NotFoundException.cs",
+              "DocumentMoniker": "G:\\Ashrakat\\Backend\\Causmatic_backEnd\\Exceptions\\NotFoundException.cs",
+              "RelativeDocumentMoniker": "Exceptions\\NotFoundException.cs",
+              "ToolTip": "G:\\Ashrakat\\Backend\\Causmatic_backEnd\\Exceptions\\NotFoundException.cs",
+              "RelativeToolTip": "Exceptions\\NotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T03:35:58.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "InternalServerException.cs",
+              "DocumentMoniker": "G:\\Ashrakat\\Backend\\Causmatic_backEnd\\Exceptions\\InternalServerException.cs",
+              "RelativeDocumentMoniker": "Exceptions\\InternalServerException.cs",
+              "ToolTip": "G:\\Ashrakat\\Backend\\Causmatic_backEnd\\Exceptions\\InternalServerException.cs",
+              "RelativeToolTip": "Exceptions\\InternalServerException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T03:35:56.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ForbiddenAccessException.cs",
+              "DocumentMoniker": "G:\\Ashrakat\\Backend\\Causmatic_backEnd\\Exceptions\\ForbiddenAccessException.cs",
+              "RelativeDocumentMoniker": "Exceptions\\ForbiddenAccessException.cs",
+              "ToolTip": "G:\\Ashrakat\\Backend\\Causmatic_backEnd\\Exceptions\\ForbiddenAccessException.cs",
+              "RelativeToolTip": "Exceptions\\ForbiddenAccessException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T03:35:55.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "BadRequestException.cs",
+              "DocumentMoniker": "G:\\Ashrakat\\Backend\\Causmatic_backEnd\\Exceptions\\BadRequestException.cs",
+              "RelativeDocumentMoniker": "Exceptions\\BadRequestException.cs",
+              "ToolTip": "G:\\Ashrakat\\Backend\\Causmatic_backEnd\\Exceptions\\BadRequestException.cs",
+              "RelativeToolTip": "Exceptions\\BadRequestException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T03:35:53.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApiKeyValidationException.cs",
+              "DocumentMoniker": "G:\\Ashrakat\\Backend\\Causmatic_backEnd\\Exceptions\\ApiKeyValidationException.cs",
+              "RelativeDocumentMoniker": "Exceptions\\ApiKeyValidationException.cs",
+              "ToolTip": "G:\\Ashrakat\\Backend\\Causmatic_backEnd\\Exceptions\\ApiKeyValidationException.cs",
+              "RelativeToolTip": "Exceptions\\ApiKeyValidationException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T02:48:46.584Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

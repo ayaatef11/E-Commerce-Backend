@@ -1,0 +1,75 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Causmatic Store Invoice</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            background-color: #f5f5f5;
+            margin: 0;
+            padding: 0;
+        }
+
+        .container {
+            max-width: 600px;
+            margin: auto;
+            padding: 20px;
+            background-color: #ffffff;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+
+        .header {
+            background-color: #007bff;
+            color: #ffffff;
+            padding: 10px;
+            text-align: center;
+            border-top-left-radius: 8px;
+            border-top-right-radius: 8px;
+        }
+
+        .content {
+            padding: 20px;
+        }
+
+        .code {
+            font-size: 24px;
+            font-weight: bold;
+            text-align: center;
+            margin-top: 20px;
+            margin-bottom: 30px;
+            color: #007bff;
+        }
+
+        .footer {
+            background-color: #f7f7f7;
+            padding: 10px;
+            text-align: center;
+            border-top: 1px solid #dddddd;
+            font-size: 12px;
+            color: #777777;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h2>Invoice</h2>
+        </div>
+        <div class="content">
+            <p>Dear {FullName},</p>
+            <p> Here is your invoice Details:</p>
+            <h2>Invoice Number: {invoice.Id}</h2>
+            <p>Total Cost: {invoice.TotalAmount} EG</p>
+            <p>Creation Date: {invoice.OrderDate}</p>          
+        </div>
+        <div class="footer">
+            <p>Thanks a lot for using our service.</p>
+            <p>&copy; 2025 Causmatic Store. All rights reserved.</p>
+        </div>
+    </div>
+</body>
+</html>

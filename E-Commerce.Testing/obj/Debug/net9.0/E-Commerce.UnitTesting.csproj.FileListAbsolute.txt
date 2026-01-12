@@ -1,0 +1,6 @@
+F:\2-back-end\E-Commerce\E-Commerce.Testing\obj\Debug\net9.0\E-Commerce.UnitTesting.csproj.AssemblyReference.cache
+F:\2-back-end\E-Commerce\E-Commerce.Testing\obj\Debug\net9.0\E-Commerce.UnitTesting.GeneratedMSBuildEditorConfig.editorconfig
+F:\2-back-end\E-Commerce\E-Commerce.Testing\obj\Debug\net9.0\E-Commerce.UnitTesting.AssemblyInfoInputs.cache
+F:\2-back-end\E-Commerce\E-Commerce.Testing\obj\Debug\net9.0\E-Commerce.UnitTesting.AssemblyInfo.cs
+F:\2-back-end\E-Commerce\E-Commerce.Testing\obj\Debug\net9.0\E-Commerce.UnitTesting.csproj.CoreCompileInputs.cache
+F:\2-back-end\E-Commerce\E-Commerce.Testing\obj\Debug\net9.0\E-Commerce.UnitTesting.sourcelink.json

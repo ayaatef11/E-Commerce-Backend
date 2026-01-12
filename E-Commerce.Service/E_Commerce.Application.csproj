@@ -1,0 +1,53 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Common\HTML-Templates\RegisterEmailBody.html" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="Common\HTML-Templates\EmailTemplate.html">
+      <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </Content>
+    <Content Include="Common\HTML-Templates\InvoiceTemplate.html">
+      <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </Content>
+    <Content Include="Common\HTML-Templates\RegisterEmailBody.html">
+      <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </Content>
+    <Content Include="Common\HTML-Templates\ResetPasswordEmailBody.html">
+      <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </Content>
+    <Content Include="Common\HTML-Templates\TwoFactorTemplate.html">
+      <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </Content>
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Identity" Version="2.3.1" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.Core" Version="2.3.0" />
+    <PackageReference Include="Quartz" Version="3.14.0" />
+    <PackageReference Include="QuestPDF" Version="2025.5.1" />
+    <PackageReference Include="SixLabors.ImageSharp" Version="3.1.10" />
+    <PackageReference Include="Stripe.net" Version="48.2.0" />
+    <PackageReference Include="System.IO.FileSystem.Primitives" Version="4.3.0" />
+    <PackageReference Include="Twilio" Version="7.11.3" />
+  </ItemGroup>
+
+  <ItemGroup> 
+    <ProjectReference Include="..\E-Commerce.Core\E_Commerce.Core.csproj" />
+    <ProjectReference Include="..\E-Commerce.Infrastructure\E_Commerce.Infrastructure.csproj" />
+    <ProjectReference Include="..\E-Commerce.Repository\E_Commerce.Repository.csproj" />
+  </ItemGroup>
+
+</Project>

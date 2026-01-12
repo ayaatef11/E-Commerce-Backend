@@ -1,0 +1,29 @@
+﻿global using Microsoft.VisualStudio.TestPlatform.TestHost;
+global using System.Net.Http.Json;
+global using System.Net;
+global using Microsoft.AspNetCore.Mvc.Testing;
+global using Causmatic_backEnd.DTOS.Order.Requests;
+global using Causmatic_backEnd.DTOS.Order.Responses;
+global using Microsoft.AspNetCore.Authentication;
+global using Microsoft.AspNetCore.Identity;
+global using Microsoft.AspNetCore.Mvc;
+global using Microsoft.AspNetCore.TestHost;
+global using Microsoft.Extensions.DependencyInjection;
+global using Microsoft.Extensions.Options;
+global using System.Security.Claims;
+global using System.Text.Encodings.Web;
+global using Causmatic_backEnd.Core.Data.Stores;
+global using Causmatic_backEnd.Core.Models.ProductModels;
+global using FluentAssertions;
+global using Microsoft.Extensions.Logging;
+
+global using Causmatic_backEnd.Core.Models.AuthModels;
+global using Causmatic_backEnd.Core.Models.InvoiceModels;
+global using Causmatic_backEnd.Core.Models.OrderModels;
+global using Causmatic_backEnd.Core.Shared.Utilties.Identity;
+global using Causmatic_backEnd.DTOS.Invoice.Responses;
+global using Causmatic_backEnd.Application.Interfaces.Authentication;
+global using Causmatic_backEnd.DTOS.Auth.Requests;
+global using Causmatic_backEnd.DTOS.Auth.Responses;
+global using System.IdentityModel.Tokens.Jwt;
+ 

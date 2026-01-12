@@ -1,0 +1,110 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\2-back-end\\E-Commerce\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{61EB0C26-7856-FFE4-D9A9-746B9AE31137}|E-Commerce\\E-Commerce.csproj|f:\\2-back-end\\e-commerce\\e-commerce\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61EB0C26-7856-FFE4-D9A9-746B9AE31137}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B71134B7-7671-E0F4-CC1C-B19F3D7024A9}|E-Commerce.Service\\E_Commerce.Application.csproj|f:\\2-back-end\\e-commerce\\e-commerce.service\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B71134B7-7671-E0F4-CC1C-B19F3D7024A9}|E-Commerce.Service\\E_Commerce.Application.csproj|solutionrelative:e-commerce.service\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B71134B7-7671-E0F4-CC1C-B19F3D7024A9}|E-Commerce.Service\\E_Commerce.Application.csproj|f:\\2-back-end\\e-commerce\\e-commerce.service\\common\\dtos\\payment\\paymentdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B71134B7-7671-E0F4-CC1C-B19F3D7024A9}|E-Commerce.Service\\E_Commerce.Application.csproj|solutionrelative:e-commerce.service\\common\\dtos\\payment\\paymentdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B71134B7-7671-E0F4-CC1C-B19F3D7024A9}|E-Commerce.Service\\E_Commerce.Application.csproj|f:\\2-back-end\\e-commerce\\e-commerce.service\\services\\core\\invoiceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B71134B7-7671-E0F4-CC1C-B19F3D7024A9}|E-Commerce.Service\\E_Commerce.Application.csproj|solutionrelative:e-commerce.service\\services\\core\\invoiceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:8:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GlobalUsings.cs",
+              "DocumentMoniker": "F:\\2-back-end\\E-Commerce\\E-Commerce\\GlobalUsings.cs",
+              "RelativeDocumentMoniker": "E-Commerce\\GlobalUsings.cs",
+              "ToolTip": "F:\\2-back-end\\E-Commerce\\E-Commerce\\GlobalUsings.cs",
+              "RelativeToolTip": "E-Commerce\\GlobalUsings.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAWwEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T11:15:08.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PaymentDetails.cs",
+              "DocumentMoniker": "F:\\2-back-end\\E-Commerce\\E-Commerce.Service\\Common\\DTOS\\Payment\\PaymentDetails.cs",
+              "RelativeDocumentMoniker": "E-Commerce.Service\\Common\\DTOS\\Payment\\PaymentDetails.cs",
+              "ToolTip": "F:\\2-back-end\\E-Commerce\\E-Commerce.Service\\Common\\DTOS\\Payment\\PaymentDetails.cs",
+              "RelativeToolTip": "E-Commerce.Service\\Common\\DTOS\\Payment\\PaymentDetails.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T11:14:24.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GlobalUsings.cs",
+              "DocumentMoniker": "F:\\2-back-end\\E-Commerce\\E-Commerce.Service\\GlobalUsings.cs",
+              "RelativeDocumentMoniker": "E-Commerce.Service\\GlobalUsings.cs",
+              "ToolTip": "F:\\2-back-end\\E-Commerce\\E-Commerce.Service\\GlobalUsings.cs",
+              "RelativeToolTip": "E-Commerce.Service\\GlobalUsings.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAWwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T11:13:58.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InvoiceService.cs",
+              "DocumentMoniker": "F:\\2-back-end\\E-Commerce\\E-Commerce.Service\\Services\\Core\\InvoiceService.cs",
+              "RelativeDocumentMoniker": "E-Commerce.Service\\Services\\Core\\InvoiceService.cs",
+              "ToolTip": "F:\\2-back-end\\E-Commerce\\E-Commerce.Service\\Services\\Core\\InvoiceService.cs",
+              "RelativeToolTip": "E-Commerce.Service\\Services\\Core\\InvoiceService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T11:13:35.43Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 313,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

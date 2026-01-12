@@ -1,0 +1,16 @@
+F:\2-back-end\E-Commerce\E-Commerce.Infrastructure\obj\Debug\net9.0\E_Commerce.Infrastructure.csproj.AssemblyReference.cache
+F:\2-back-end\E-Commerce\E-Commerce.Infrastructure\obj\Debug\net9.0\E_Commerce.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+F:\2-back-end\E-Commerce\E-Commerce.Infrastructure\obj\Debug\net9.0\E_Commerce.Infrastructure.AssemblyInfoInputs.cache
+F:\2-back-end\E-Commerce\E-Commerce.Infrastructure\obj\Debug\net9.0\E_Commerce.Infrastructure.AssemblyInfo.cs
+F:\2-back-end\E-Commerce\E-Commerce.Infrastructure\obj\Debug\net9.0\E_Commerce.Infrastructure.csproj.CoreCompileInputs.cache
+F:\2-back-end\E-Commerce\E-Commerce.Infrastructure\obj\Debug\net9.0\E_Commerce.Infrastructure.sourcelink.json
+F:\2-back-end\E-Commerce\E-Commerce.Infrastructure\bin\Debug\net9.0\E_Commerce.Infrastructure.deps.json
+F:\2-back-end\E-Commerce\E-Commerce.Infrastructure\bin\Debug\net9.0\E_Commerce.Infrastructure.dll
+F:\2-back-end\E-Commerce\E-Commerce.Infrastructure\bin\Debug\net9.0\E_Commerce.Infrastructure.pdb
+F:\2-back-end\E-Commerce\E-Commerce.Infrastructure\bin\Debug\net9.0\E_Commerce.Core.dll
+F:\2-back-end\E-Commerce\E-Commerce.Infrastructure\bin\Debug\net9.0\E_Commerce.Core.pdb
+F:\2-back-end\E-Commerce\E-Commerce.Infrastructure\obj\Debug\net9.0\E_Commer.124E6787.Up2Date
+F:\2-back-end\E-Commerce\E-Commerce.Infrastructure\obj\Debug\net9.0\E_Commerce.Infrastructure.dll
+F:\2-back-end\E-Commerce\E-Commerce.Infrastructure\obj\Debug\net9.0\refint\E_Commerce.Infrastructure.dll
+F:\2-back-end\E-Commerce\E-Commerce.Infrastructure\obj\Debug\net9.0\E_Commerce.Infrastructure.pdb
+F:\2-back-end\E-Commerce\E-Commerce.Infrastructure\obj\Debug\net9.0\ref\E_Commerce.Infrastructure.dll

@@ -1,0 +1,16 @@
+G:\5-Ashrakat\Causmatic Store\Backend\Causmatic_backEnd.Infrastructure\bin\Release\net9.0\Causmatic_backEnd.Infrastructure.deps.json
+G:\5-Ashrakat\Causmatic Store\Backend\Causmatic_backEnd.Infrastructure\bin\Release\net9.0\Causmatic_backEnd.Infrastructure.dll
+G:\5-Ashrakat\Causmatic Store\Backend\Causmatic_backEnd.Infrastructure\bin\Release\net9.0\Causmatic_backEnd.Infrastructure.pdb
+G:\5-Ashrakat\Causmatic Store\Backend\Causmatic_backEnd.Infrastructure\bin\Release\net9.0\Causmatic_backEnd.Core.dll
+G:\5-Ashrakat\Causmatic Store\Backend\Causmatic_backEnd.Infrastructure\bin\Release\net9.0\Causmatic_backEnd.Core.pdb
+G:\5-Ashrakat\Causmatic Store\Backend\Causmatic_backEnd.Infrastructure\obj\Release\net9.0\Causmatic_backEnd.Infrastructure.csproj.AssemblyReference.cache
+G:\5-Ashrakat\Causmatic Store\Backend\Causmatic_backEnd.Infrastructure\obj\Release\net9.0\Causmatic_backEnd.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+G:\5-Ashrakat\Causmatic Store\Backend\Causmatic_backEnd.Infrastructure\obj\Release\net9.0\Causmatic_backEnd.Infrastructure.AssemblyInfoInputs.cache
+G:\5-Ashrakat\Causmatic Store\Backend\Causmatic_backEnd.Infrastructure\obj\Release\net9.0\Causmatic_backEnd.Infrastructure.AssemblyInfo.cs
+G:\5-Ashrakat\Causmatic Store\Backend\Causmatic_backEnd.Infrastructure\obj\Release\net9.0\Causmatic_backEnd.Infrastructure.csproj.CoreCompileInputs.cache
+G:\5-Ashrakat\Causmatic Store\Backend\Causmatic_backEnd.Infrastructure\obj\Release\net9.0\Causmati.F69EF447.Up2Date
+G:\5-Ashrakat\Causmatic Store\Backend\Causmatic_backEnd.Infrastructure\obj\Release\net9.0\Causmatic_backEnd.Infrastructure.dll
+G:\5-Ashrakat\Causmatic Store\Backend\Causmatic_backEnd.Infrastructure\obj\Release\net9.0\refint\Causmatic_backEnd.Infrastructure.dll
+G:\5-Ashrakat\Causmatic Store\Backend\Causmatic_backEnd.Infrastructure\obj\Release\net9.0\Causmatic_backEnd.Infrastructure.pdb
+G:\5-Ashrakat\Causmatic Store\Backend\Causmatic_backEnd.Infrastructure\obj\Release\net9.0\ref\Causmatic_backEnd.Infrastructure.dll
+G:\5-Ashrakat\Causmatic Store\Backend\Causmatic_backEnd.Infrastructure\obj\Release\net9.0\Causmatic_backEnd.Infrastructure.sourcelink.json

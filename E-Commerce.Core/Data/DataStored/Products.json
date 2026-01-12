@@ -1,0 +1,48 @@
+[
+  {
+    "Name": "Product Name1",
+    "Description": "Details1",
+    "Price": 2799.99,
+    "PictureUrl": "Images/Products/offer1.jpg",
+    "IsDeleted": false
+  },
+  {
+    "Name": "Product Name2",
+    "Description": "Details2",
+    "Price": 2799.99,
+    "PictureUrl": "Images/Products/offer2.jpg",
+    "IsDeleted": false
+
+  },
+  {
+    "Name": "Product Name3",
+    "Description": "Details3",
+    "Price": 2799.99,
+    "PictureUrl": "Images/Products/offer3.jpg",
+    "IsDeleted": false
+
+  },
+  {
+    "Name": "Product Name4",
+    "Description": "Details4",
+    "Price": 2799.99,
+    "PictureUrl": "Images/Products/offer1.jpg",
+    "IsDeleted": false
+
+  },
+  {
+    "Name": "Product Name5",
+    "Description": "Details5",
+    "Price": 2799.99,
+    "PictureUrl": "Images/Products/offer2.jpg",
+    "IsDeleted": false
+
+  },
+  {
+    "Name": "Product Name6",
+    "Description": "Details6",
+    "Price": 2799.99,
+    "PictureUrl": "Images/Products/offer3.jpg",
+    "IsDeleted": false
+  }
+]

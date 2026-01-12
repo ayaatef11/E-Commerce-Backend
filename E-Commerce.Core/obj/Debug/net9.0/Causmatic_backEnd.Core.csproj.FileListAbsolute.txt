@@ -1,0 +1,15 @@
+G:\5-Ashrakat\Causmatic Store\Backend\Causmatic_backEnd.Core\bin\Debug\net9.0\Causmatic_backEnd.Core.deps.json
+G:\5-Ashrakat\Causmatic Store\Backend\Causmatic_backEnd.Core\bin\Debug\net9.0\Causmatic_backEnd.Core.runtimeconfig.json
+G:\5-Ashrakat\Causmatic Store\Backend\Causmatic_backEnd.Core\bin\Debug\net9.0\Causmatic_backEnd.Core.dll
+G:\5-Ashrakat\Causmatic Store\Backend\Causmatic_backEnd.Core\bin\Debug\net9.0\Causmatic_backEnd.Core.pdb
+G:\5-Ashrakat\Causmatic Store\Backend\Causmatic_backEnd.Core\obj\Debug\net9.0\Causmatic_backEnd.Core.csproj.AssemblyReference.cache
+G:\5-Ashrakat\Causmatic Store\Backend\Causmatic_backEnd.Core\obj\Debug\net9.0\Causmatic_backEnd.Core.GeneratedMSBuildEditorConfig.editorconfig
+G:\5-Ashrakat\Causmatic Store\Backend\Causmatic_backEnd.Core\obj\Debug\net9.0\Causmatic_backEnd.Core.AssemblyInfoInputs.cache
+G:\5-Ashrakat\Causmatic Store\Backend\Causmatic_backEnd.Core\obj\Debug\net9.0\Causmatic_backEnd.Core.AssemblyInfo.cs
+G:\5-Ashrakat\Causmatic Store\Backend\Causmatic_backEnd.Core\obj\Debug\net9.0\Causmatic_backEnd.Core.csproj.CoreCompileInputs.cache
+G:\5-Ashrakat\Causmatic Store\Backend\Causmatic_backEnd.Core\obj\Debug\net9.0\Causmatic_backEnd.Core.dll
+G:\5-Ashrakat\Causmatic Store\Backend\Causmatic_backEnd.Core\obj\Debug\net9.0\refint\Causmatic_backEnd.Core.dll
+G:\5-Ashrakat\Causmatic Store\Backend\Causmatic_backEnd.Core\obj\Debug\net9.0\Causmatic_backEnd.Core.pdb
+G:\5-Ashrakat\Causmatic Store\Backend\Causmatic_backEnd.Core\obj\Debug\net9.0\Causmatic_backEnd.Core.genruntimeconfig.cache
+G:\5-Ashrakat\Causmatic Store\Backend\Causmatic_backEnd.Core\obj\Debug\net9.0\ref\Causmatic_backEnd.Core.dll
+G:\5-Ashrakat\Causmatic Store\Backend\Causmatic_backEnd.Core\obj\Debug\net9.0\Causmatic_backEnd.Core.sourcelink.json

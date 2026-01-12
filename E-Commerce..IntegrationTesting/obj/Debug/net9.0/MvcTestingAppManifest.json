@@ -1,0 +1,7 @@
+{
+  "Causmatic_backEnd.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "G:\\5-Ashrakat\\Causmatic Store\\Backend\\Causmatic_backEnd.Service",
+  "Causmatic_backEnd.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "G:\\5-Ashrakat\\Causmatic Store\\Backend\\Causmatic_backEnd.Core",
+  "Causmatic_backEnd, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "G:\\5-Ashrakat\\Causmatic Store\\Backend\\Causmatic_backEnd",
+  "Causmatic_backEnd.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "G:\\5-Ashrakat\\Causmatic Store\\Backend\\Causmatic_backEnd.Infrastructure",
+  "Causmatic_backEnd.Repository, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "G:\\5-Ashrakat\\Causmatic Store\\Backend\\Causmatic_backEnd.Repository"
+}
